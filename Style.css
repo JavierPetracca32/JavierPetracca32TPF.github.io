@@ -1,0 +1,243 @@
+@media (max-width: 992px) {
+   #logo{
+    width: 50%;
+    padding-top: 2%;
+    }
+    #navbtns{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #off[]
+    }
+
+
+#nbtn{
+   display: flex;
+   flex-direction: row;
+   column-gap: 3%;
+      
+}
+#wtsp{    
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+#wtsp:hover{
+    background-image: url(pngwing.com.png);
+    font-weight: lighter;
+    
+    }    
+
+.navbar-brand{
+    width: 30%;
+}
+
+#navbarScroll{
+    gap:2%
+
+}
+
+
+/* Nav Ul */
+
+.navbar-collapse{
+    min-height: 10%;    
+}
+
+#wtsp{
+    }
+
+
+#srch{
+       column-gap: 1%;
+    padding-left: 5%;
+    padding-right: 1%;
+    width: 80%;
+    
+}
+
+
+#sbutton{
+    background-image: url(SPNG.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    border-color: rgb(228, 223, 223);
+    width: 25%; 
+}
+
+    /*Carosuel*/
+    #carousel{
+       width:100%;
+       margin-bottom: 2%;
+
+     }
+   
+   #carousel img{
+        width: 300px;
+        height: 500px;
+        object-fit:contain;
+    }
+
+   
+#sec2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+    column-gap: 2%;
+}
+
+#caro img{
+ object-fit: cover;
+}
+
+/*RCard*/
+
+#rebaño{
+    background-image:url(rebaño2.jpg);
+    background-size:cover;
+    width: 50%;
+    border-color: rgb(176, 174, 174);
+    margin-right: 0%;
+}
+  
+#Register{
+    font-family:Register;
+    -webkit-text-fill-color: rgb(250, 249, 249);
+    -webkit-text-stroke: 2px rgb(10, 10, 10);}
+
+@font-face {
+    font-family: Register;
+    src: url(PressStart2P-Regular.ttf);}
+
+
+    .offbtn{
+        display: flex;
+        flex-direction: row;
+        row-gap: 3%;
+
+    }
+
+    #offb{
+padding: 0%;
+margin: 0%;
+border: 0%;
+width: 40%;
+}
+
+    
+    #off{
+        font-size: 300%;
+        font-family: off;
+        background-color: black;
+        color: #fff;
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 25px #ff00de;
+        -webkit-text-fill-color: #F4ECFF;
+        -webkit-text-stroke-color:#C546F7;
+        -webkit-text-stroke-width:0.2px;
+        text-align: left;
+        width: 50%;
+        border-color: rgb(176, 174, 174);
+        margin-right: 0%;
+        }
+
+            @font-face {
+            font-family: off;
+            src: url(Clip.ttf);}
+
+       
+
+
+@font-face {
+    font-family: Titulos Pestañas;
+    src: url(IndieFlower-Regular.ttf);}
+
+
+ 
+body{
+    border:1%;
+    padding:1%;
+}
+
+main h3{
+    text-align: center;
+    background-color: rgb(251, 230, 230);
+    border-top: 10%;}
+
+section{
+        margin-bottom: 1%;
+}
+    
+.Catalogo{
+    text-align: center;
+    font-family: Titulos Pestañas;
+    width: 100%;
+    border: 0cap;
+}
+
+.Catalogo a{
+text-decoration: none;
+}
+
+    @font-face {
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+
+
+.Catalogo img{
+            height: 80%;
+            align-content: center;
+            }
+
+            .Catalogo img:hover{
+              transform: scale(1.1);
+               
+            }
+            .card-body:hover{
+                background-color: #f083b6;
+                color:#F4ECFF;
+                cursor: pointer;
+            }
+
+#staticBackdrop{
+    background-image: url(offcvs.jpg);
+    font-weight: bolder;
+}
+    
+     /* Contactos */
+     @font-face{
+        font-family: Titulos Pestañas;
+        src: url(IndieFlower-Regular.ttf);}
+    
+    #contacto{
+        border-top: 10%;
+        font-family: Titulos Pestañas;
+        font-size: large;         
+    }
+
+    #back3.img{
+        background-repeat: repeat-x;
+        background-size: contain; 
+        opacity: .5;
+    }
+
+      /* Footer */
+    @font-face{
+        font-family: Title;
+        src: url(IndieFlower-Regular.ttf);}
+
+    footer{
+        font-family: Title;
+        font-weight: bolder;
+        font-size: medium;
+        text-align: center;
+        background-color: aliceblue;}  
+
+
+  
+
+
+
+
+    
